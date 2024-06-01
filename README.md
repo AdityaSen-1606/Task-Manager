@@ -11,3 +11,6 @@ This repository contains a full-stack web application built using the MERN stack
 - **Linting**: ESLint for code quality.
 
 ### Live: https://task-manager-lilac-delta.vercel.app/
+
+![image](https://github.com/AdityaSen-1606/Task-Manager/assets/76251309/89705558-c654-413f-b900-63384bceb51e)
+
